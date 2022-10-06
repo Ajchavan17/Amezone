@@ -23,6 +23,13 @@ Run commands
 3) ```yarn run dev```
 
 
-### If you see the window below then you are set to build AMAZON 2.0!
+Facility Used
+
+1) ```Firebase```
+
+2) ```Firebase-Firestore```
+
+3) ```stripe (payment getway)```
+
 
 
